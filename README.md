@@ -4,3 +4,4 @@
 启动入口，
 python ai_translator/gradio_server.py 
 
+链接：https://github.com/1961569927/openai-translator-v2.git
